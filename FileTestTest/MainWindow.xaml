@@ -8,6 +8,15 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" Margin="0,0,524,291" Click="Button_Click"/>
+        <Button Content="ChangingTEST" Margin="276,0,437,349" Click="Button_Click_1" ></Button>
+        <Button Content="AttributeChangingTEST" Margin="362,0,362,349" Click="Button_Click_2"></Button>
+        <Button Content ="FilnInfoTest" Margin="443,-1,275,391" Click="Button_Click_3"></Button>
+        <Button Content="fsWrite" Margin="530,2,184,360" Click="Button_Click_4"/>
+        <Button Content="BinaryWrite" Margin="616,2,98,374" Click="Button_Click_5"/>
+        <Button Content="ByteWriteRead" Margin="0,143,679,191" Click="Button_Click_6"></Button>
+        <Button Content="all" Margin="121,143,558,217" Click="Button_Click_7"/>
+        <Button Content="CopyAudioTest" Margin="242,145,388,204" Click="Button_Click_8"/>
+        <Button Content="disconnection" Margin="555,158,63,191" Click="Button_Click_9" > </Button>
 
     </Grid>
 </Window>
